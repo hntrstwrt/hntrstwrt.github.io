@@ -1,0 +1,89 @@
+p {
+text-align:center;
+}
+  
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color:black;
+}
+
+h1 {
+  font-family: 'Titan One', sans-serif;
+  text-align:center;
+  margin-bottom:5px;
+  font-size: 40pt;
+}
+
+
+h3 {
+  text-align:center;
+  margin-bottom:5px;
+  margin-top:0px;
+  color:#D68E7A;
+  font-family: 'Oswald', sans-serif;
+
+}
+
+ul {
+  margin-right:45px;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  color: black;
+  background-color: #D68E7A;
+  overflow:auto;
+}
+
+li {
+  font-family: 'Francois One', sans-serif;
+  font-family: 20pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+  float: none;
+  color:white;
+}
+
+#dodgr {
+  display:inline;
+  margin:auto;
+  margin-top:20px;
+  margin-bottom:20px;
+
+}
+
+#range-logo {
+  background-image:url(https://soundcloud.com/thelastartful);
+  display:block;
+  height:100px;
+  width:460px;
+  overflow:hidden;
+  text-indent:100%;
+  white-space:nowrap;
+}
+
+#blake {
+  display:inline;
+  margin:auto;
+}
+
+a:hover {
+  background-color:white;
+  text-decoration-color: black;
+}
+
+/*mouse over link*/
+a:hover {
+  color: black;
+}
+
+/*unvisited link*/
+a:link {
+  color:white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
