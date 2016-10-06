@@ -1,0 +1,59 @@
+h1 {
+  font-family: 'Bungee Shade', cursive;
+  text-align: left;
+  margin-bottom:5px;
+  font-size: 40pt;
+  color: white;
+}
+
+Ul {
+  background-color: #D68E7A;
+  list-style-type:none;
+}
+
+li {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 40pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: inline;
+  float: none;
+  text-align: left;
+  color:white;
+}
+
+
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: black;
+  color: white;
+}
+
+a:hover {
+  background-color:white;
+  text-decoration-color: white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+/*mouse over link*/
+a:hover {
+  color: black;
+}
+
+/*unvisited link*/
+a:link {
+  color:white;
+}
+
+#photos {
+  display:flex;
+}
+
+.bigger {
+  font-size:20pt;
+  color:#FB9107;
+}
