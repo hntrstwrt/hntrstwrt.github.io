@@ -1,0 +1,214 @@
+p {
+text-align:center;
+}
+  
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color:black;
+}
+
+h1 {
+  font-family: 'Bungee Inline', cursive;
+  text-align:center;
+  margin-bottom:0px;
+  font-size: 40pt;
+}
+
+h3 {
+  text-align:center;
+  margin-bottom:5px;
+  margin-top:0px;
+  margin-left:2px;
+  color:#D68E7A;
+  font-family: 'Droid Sans', sans-serif;
+
+}
+
+ul {
+  margin-right:45px;
+  list-style-type: none;
+  overflow: hidden;
+  margin: 0;
+  padding: 0;
+  color: black;
+  background-color: #D68E7A;
+  overflow:auto;
+  margin-bottom:20px;
+}
+
+li {
+  font-family: 'Francois One', sans-serif;
+  font-family: 20pt;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  display: block;
+  float: none;
+  color:white;
+}
+
+#dodgr, #blake, #august {
+  display:inline;
+  margin-top:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+}
+
+#blake {
+  height: 350;
+}
+
+.photos {
+  -webkit-column-count: 3; /* Chrome, Safari, Opera */
+  -moz-column-count: 3; /* Firefox */
+  column-count: 3;
+}
+
+#range-logo {
+  background-image:url(https://soundcloud.com/thelastartful);
+  display:block;
+  height:100px;
+  width:460px;
+  overflow:hidden;
+  text-indent:100%;
+  white-space:nowrap;
+}
+
+a:hover {
+  background-color:white;
+  text-decoration-color: black;
+}
+
+/*mouse over link*/
+a:hover {
+  color: black;
+}
+
+/*unvisited link*/
+a:link {
+  color:white;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+.last {
+  position: relative; 
+  width: 100%; /* for IE 6 */
+  
+}
+
+.last h2{ 
+  position: absolute; 
+  top: 220px; 
+  left: 10; 
+  right:100px;
+  bottom: 10px;
+  width: 100%; 
+  
+}
+.last h2 span { 
+  color: white; 
+  font: bold 24px/45px Helvetica, Sans-Serif; 
+  font-size: 15pt;
+  letter-spacing: -1px;  
+  background: #D68E7A;
+  padding: 5px;
+  padding-left:5px;
+  display: inline;
+  margin-top: 90px;
+  margin-left: 0px;
+}
+
+.last h2 span.spacer {
+  padding: 0 5px;
+  margin-top: 30px;
+}
+
+
+.howell {
+  position: relative; 
+  width: 100%; /* for IE 6 */
+}
+.howell h2{ 
+  position: absolute; 
+  top: 220px; 
+  left: 10; 
+  right:40px;
+  bottom: 10px;
+  width: 100%;
+  
+}
+.howell h2 span { 
+    color: white; 
+    font: bold 24px/45px Helvetica, Sans-Serif; 
+    font-size: 15pt;
+    letter-spacing: -1px;  
+    background: #D68E7A;
+    padding: 5px;
+    padding-left:5px;
+    display: inline;
+    margin-top: 100;
+    margin-bottom:5px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+h2 span.spacer2 {
+  padding: 0 10px;
+  
+}
+
+h2 span.spacer4 {
+  padding:0 10px;
+  margin-top:10px;
+  margin-right:100px;
+}
+
+.wilson {
+  position: relative; 
+  width: 100%; /* for IE 6 */
+}
+
+.wilson h2 span { 
+  color: white; 
+  font: bold 24px/45px Helvetica, Sans-Serif; 
+  font-size: 15pt;
+  letter-spacing: -1px;  
+  background:#D68E7A;
+  padding: 5px;
+  padding-left:5px;
+  display: inline;
+  margin-top: 100;
+  margin-bottom:5px;
+  margin-left: 0px;
+  margin-right: 0px;
+  overflow:hidden;
+}
+
+.wilson h2{ 
+  position: absolute; 
+  top: 220px; 
+  left: 10; 
+  right:20px;
+  bottom: 10px;
+  width: 100%;
+  text-align:left;
+
+}
+h2 span.spacer3 {
+  padding: 0 5px;
+  margin-top: 30px;
+}
+
+
+  h2 span.spacer5 {
+    padding:0 10px;
+    margin-top:10px;
+    margin-right:10px;
+  }
+
+.wilson {
+  margin-left:20px;
+}
